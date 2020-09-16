@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: /assets/img/12.jpg
+title: Tiyam
+description: Monitor Everything! Watch Your Network Carefully
+img: /assets/img/tiyam/who-is-watching.jpg
 importance: 1
 ---
 

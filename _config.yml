@@ -59,8 +59,8 @@ google_analytics: UA-XXXXXXXXX # out your google-analytics code
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name:   # your blog must have a name for it to show up in the nav bar
-blog_description: some simple notes
+blog_name: Hman  # your blog must have a name for it to show up in the nav bar
+blog_description: some simple notes about almost everything
 permalink: /blog/:year/:title/
 
 # Pagination
