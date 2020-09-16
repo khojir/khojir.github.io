@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
 
@@ -23,8 +23,12 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi! I'm Hamid Fazli! I'm interested in software engineering and artificial intelligence. 
+I have a bachelor's degree in computer engineering from University of Tehran. My last two year GPA is 3.94/4 and overall is 3.66/4.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Also, I have experience of working on different types of industrial projects. If you want, you can see the most important of them in projects' tab. During last 4 years, my main focus was on learning both type of soft-skills and hard-skills.
+Currently, I'm a software engineer, I think!
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I use my time to learn new things about computers, humans, and society. In this website I share some of my thoughts. Feel free to read and comment.
+
+Thanks! 
