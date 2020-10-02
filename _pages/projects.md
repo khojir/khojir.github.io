@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Projects
+title: projects
 permalink: /projects/
 description: Some projects that I have contributed to them
 nav: true
