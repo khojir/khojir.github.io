@@ -2,10 +2,9 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: My teaching experiences
 nav: true
 ---
-
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
-
-Organize your courses by years, topics, or universities, however you like!
+I have been a teaching assistant for several courses during my bachelor's degree.
+I have taught courses like fundamentals of programming, advanced programming, data structures, and algorithms.
+During these courses, I was responsible for holding classes and evaluating and making different assignments and projects.
