@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow
+title: "Blog: Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow"
 date: 2020-09-01 11:12:00-0400
 description: Maybe the best book to learn ML
 ---
