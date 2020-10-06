@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Blog: The Clean Coder"
+title: "Book: The Clean Coder"
 date: 2020-10-05 11:12:00-0400
 description: The valuable soft skills 
 ---
