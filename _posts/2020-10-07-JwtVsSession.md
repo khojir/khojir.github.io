@@ -1,9 +1,0 @@
----
-layout: post
-title: JWT-based vs Session-based Authentication 
-date: 2020-10-07 11:12:00-0400
-description: We should use which one?
----
-JWT benefits...
-Session benefits...
-Different scenarios...
